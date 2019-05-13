@@ -1,3 +1,3 @@
-# Quantitative Finance iPython Notebooks
+# Quantitative Finance - iPython Notebooks
 
-Collection of various quantitative finanace topics covered in iPython Notebooks comprised of personal work and quantitative finance excersises
+Collection of various Quantitative Finanace topics covered in iPython Notebooks comprised of personal work and Quantitative Finance excersises
