@@ -1,3 +1,2 @@
-# Quantitative Finance - iPython Notebooks
+# Data Visualisation - iPython Notebooks
 
-Collection of various Quantitative Finanace topics covered in iPython Notebooks comprised of personal research and Quantitative Finance excersises
